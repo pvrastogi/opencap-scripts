@@ -4,7 +4,7 @@ These scripts find and label the events inside each OpenCap task — heel strike
 toe-offs, sit-to-stand phases, reach onsets and returns, stance touchdowns — and write
 them out as one row per event, together with marker and joint-angle plots.
 
-**Start with the SOP, not with these files.** `SOP_Run_Segmentation.md` covers installing
+**Start with the SOP. It covers installing
 OpenSim, downloading the pinned `opencap-processing` checkout these scripts depend on,
 naming the trials correctly, and reading the output. Running anything here without that
 setup will fail at the first import.
